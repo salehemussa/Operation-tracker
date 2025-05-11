@@ -1,5 +1,7 @@
 # Operation-tracker
 Web-based system to track daily tasks, includes admin and operators 
+
+1. Role-based Login form for admin and operator, the form authenticates users according to their roles each role redirect into respective panel for permission managements
 ![Screenshot (1)](https://github.com/user-attachments/assets/19981572-6b75-41b4-9ca8-2c1605be8422)
 
 ![Screenshot (2)](https://github.com/user-attachments/assets/13ccb707-47ae-4738-904e-9e8bacd037c1)
