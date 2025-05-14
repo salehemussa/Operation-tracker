@@ -4,8 +4,10 @@ Web-based system to track daily tasks, includes admin and operators
 1. Role-based Login form for admin and operator, the form authenticates users according to their roles each role redirect into respective panel for permission managements
 ![Screenshot (1)](https://github.com/user-attachments/assets/19981572-6b75-41b4-9ca8-2c1605be8422)
 
+2. Admin dashboard for handling all operations and operator users 
 ![Screenshot (2)](https://github.com/user-attachments/assets/13ccb707-47ae-4738-904e-9e8bacd037c1)
 
+3. 
 ![Screenshot (3)](https://github.com/user-attachments/assets/67143e94-6ab0-4140-9aa6-d69dfd618d80)
 
 ![Screenshot (4)](https://github.com/user-attachments/assets/3c7c7ebd-ecd5-4e30-97ad-2c78852de6b3)
